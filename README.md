@@ -17,21 +17,21 @@ total de horas trabalhadas por dia, por semana ou por mês, além de gerar relat
 
 📋Pré-requisitos do sistema:
 
-> Python a partir da versão 3.8 ou superior instalado no computador.
-> Sistema operacional: Windows, Linux ou macOS.
-> Permissão para criar arquivos no disco (o sistema cria automaticamente um banco de dados SQLite chamado horas_trabalhadas.db).
+- Python a partir da versão 3.8 ou superior instalado no computador.
+- Sistema operacional: Windows, Linux ou macOS.
+- Permissão para criar arquivos no disco (o sistema cria automaticamente um banco de dados SQLite chamado horas_trabalhadas.db).
 
 🛠️Tecnologias utilizadas:
 
-> Python: Linguagem principal de programação.
-> Tkinter: Biblioteca padrão do Python para criar interfaces gráficas (GUI).
-> SQLite (sqlite3): Banco de dados leve e embutido, usado para armazenar os registros de forma local.
+- Python: Linguagem principal de programação.
+- Tkinter: Biblioteca padrão do Python para criar interfaces gráficas (GUI).
+- SQLite (sqlite3): Banco de dados leve e embutido, usado para armazenar os registros de forma local.
 
 Versões:
 
-> Python	3.8 ou superior
-> Tkinter	Integrado ao Python
-> SQLite	Integrado ao Python
+- Python	3.8 ou superior
+- Tkinter	Integrado ao Python
+- SQLite	Integrado ao Python
 
 Autor: 
-> Welson Assunção
+- Welson Assunção
